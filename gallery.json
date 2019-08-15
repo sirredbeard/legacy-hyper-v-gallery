@@ -24,7 +24,7 @@
           "archiveRelativePath": "q4os-3.8-x64-tde.r4.iso"
         },
         "logo": {
-          "uri": "https://www.linuxinsider.com/ai/267575/kde.jpg",
+          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
           "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
         },
         "symbol": {
@@ -33,7 +33,7 @@
         },
         "thumbnail": {
           "uri": "https://i1.wp.com/itsfoss.com/wp-content/uploads/2019/02/q4os1.jpg",
-          "hash": "sha256:"
+          "hash": "sha256:5CDCDB180C28690467C45BCE08494CC3C50B4D33E03256A6721D945FD06B2641"
         },
         "details": [
           {
