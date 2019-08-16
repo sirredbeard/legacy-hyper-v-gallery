@@ -258,6 +258,108 @@
   ]
 }
 ,
+{
+  "name": "Fedora Silverblue",
+  "version": "4.0",
+  "locale": "en-US",
+  "publisher": "sirredbeard on GitHub",
+  "lastUpdated": "2019-08-15T20:35:11Z",
+  "description": [
+  "Live ISO of Fedora Team Silverblue",
+  "\r\n\r\n",
+  "https://github.com/sirredbeard/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://download.fedoraproject.org/pub/fedora/linux/releases/30/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-30-1.2.iso",
+  "hash": "sha256:d00e9a77623faa5504537d63e4d4a1767dcd3e162fdfdced7ebc6cb1aac14936",
+  "archiveRelativePath": "Fedora-Silverblue-ostree-x86_64-30-1.2.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/fedora-silverblue/logo.png",
+  "hash": "sha256:A51A5DA04FD0DBEB1ADA1261355D0B7D7BCC7A4CEB69E1BA97A601E6FAECDB60"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/fedora-silverblue/logo.png",
+  "hash": "sha256:A51A5DA04FD0DBEB1ADA1261355D0B7D7BCC7A4CEB69E1BA97A601E6FAECDB60"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/fedora-silverblue/thumbnail.png",
+  "hash": "sha256:A84A5FF0997BCD406837CB43749CDFFC55C1A8800E692D4F7DF7D0179A35BA9C"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "30"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Fedora Project"
+  },
+  {
+      "name": "License",
+      "value": "https://silverblue.fedoraproject.org/download"
+    },
+  ]
+}
+,
+{
+  "name": "Devuan Ascii",
+  "version": "Ascii",
+  "locale": "en-US",
+  "publisher": "sirredbeard on GitHub",
+  "lastUpdated": "2019-08-15T20:35:11Z",
+  "description": [
+  "Desktop live ISO of Devuan Ascii",
+  "\r\n\r\n",
+  "https://github.com/sirredbeard/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://mirror.leaseweb.com/devuan/devuan_ascii/desktop-live/devuan_ascii_2.0.0_amd64_desktop-live.iso",
+  "hash": "sha256:76584ce7183993306af8b00edc8ffce3a1dc69b10f0a97e0a6302d49b0a63858",
+  "archiveRelativePath": "devuan_ascii_2.0.0_amd64_desktop-live.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/devuan-ascii/logo.png",
+  "hash": "sha256:A3C208836FBE944B1B2AB6C8674202849396F8F1D2E2000E8D2D001A6B7E4AC8"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/devuan-ascii/logo.png",
+  "hash": "sha256:A3C208836FBE944B1B2AB6C8674202849396F8F1D2E2000E8D2D001A6B7E4AC8"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/devuan-ascii/thumbnail.png",
+  "hash": "sha256:C9BE48D54E02F68BA36B0500C3DAC2103E02D571657E48FD4C43C31F62475DB2"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "Ascii"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Devuan"
+  },
+  {
+      "name": "License",
+      "value": "https://devuan.org/os/free-software"
+    },
+  ]
+}
+,
 ]
 }
   
