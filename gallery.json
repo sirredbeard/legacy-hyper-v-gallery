@@ -49,10 +49,10 @@
             "value": "https://www.q4os.org/"
           }
         ]
-      }
-      
+
+    "images": [
       {
-        "name": "Scientific Linux",
+        "name": "Q4OS",
         "version": "7.6",
         "locale": "en-US",
         "publisher": "Repackaged by sirredbeard on GitHub",
@@ -103,4 +103,3 @@
         }
       ]
   }
-
