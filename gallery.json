@@ -411,6 +411,57 @@
   ]
 }
 ,
+{
+  "name": "Arch Linux",
+  "version": "2019.08.01",
+  "locale": "en-US",
+  "publisher": "sirredbeard on GitHub",
+  "lastUpdated": "2019-08-15T20:35:11Z",
+  "description": [
+  "Install ISO of Arch Linux",
+  "\r\n\r\n",
+  "https://github.com/sirredbeard/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "http://mirror.rackspace.com/archlinux/iso/2019.08.01/archlinux-2019.08.01-x86_64.iso",
+  "hash": "sha1:4dae830315df4684b4351348f1a0fc49b5c08aa7",
+  "archiveRelativePath": "archlinux-2019.08.01-x86_64.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/arch/logo.png",
+  "hash": "sha256:4FEF3CD5C0DF9898AE7AD11B4B49E378978F75885BCC6B2C8D8A07DE24BA6B49"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/arch/logo.png",
+  "hash": "sha256:4FEF3CD5C0DF9898AE7AD11B4B49E378978F75885BCC6B2C8D8A07DE24BA6B49"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/arch/thumbnail.png",
+  "hash": "sha256:5BD67990B18BBDECDD49EBE08F528EB27A539BCC1963E22E709F7DA6EECF5885"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "2019.08.01"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Arch"
+  },
+  {
+      "name": "License",
+      "value": "https://www.archlinux.org/"
+    },
+  ]
+}
+,
 ]
 }
   
