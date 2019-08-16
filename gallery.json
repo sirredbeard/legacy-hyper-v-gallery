@@ -180,11 +180,11 @@
   "archiveRelativePath": "GhostBSD19.04.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/ghostbsd/logo.png",
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/ghostbsd/logo.jpg",
   "hash": "sha256:6E9D1F8AC4F20592C77F68BF90B32E2E9535D8E877A9400AC40AB988CDCBBB87"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/ghostbsd/logo.png",
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/ghostbsd/logo.jpg",
   "hash": "sha256:6E9D1F8AC4F20592C77F68BF90B32E2E9535D8E877A9400AC40AB988CDCBBB87"
   },
   "thumbnail": {
