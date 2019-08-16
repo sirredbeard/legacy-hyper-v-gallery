@@ -48,6 +48,6 @@ This adds the custom json from this repo alongside the existing Microsoft json i
 
 this project was inspired by the following:
 
-"[How to create a Custom Hyper-V Quick Create VM Gallery](https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/How-to-create-a-Custom-Hyper-V-Quick-Create-VM-Gallery/ba-p/781346)" by Thomas Maurer
-"[Create a custom virtual machine gallery](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/custom-gallery?WT.mc_id=itopstalk-blog-thmaure)" by Sarah Cooley
-"[Create your custom Quick Create VM gallery](https://techcommunity.microsoft.com/t5/Virtualization/Create-your-custom-Quick-Create-VM-gallery/ba-p/382388)" by Lars Iwer
+- "[How to create a Custom Hyper-V Quick Create VM Gallery](https://techcommunity.microsoft.com/t5/ITOps-Talk-Blog/How-to-create-a-Custom-Hyper-V-Quick-Create-VM-Gallery/ba-p/781346)" by Thomas Maurer
+- "[Create a custom virtual machine gallery](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/custom-gallery?WT.mc_id=itopstalk-blog-thmaure)" by Sarah Cooley
+- "[Create your custom Quick Create VM gallery](https://techcommunity.microsoft.com/t5/Virtualization/Create-your-custom-Quick-Create-VM-gallery/ba-p/382388)" by Lars Iwer
