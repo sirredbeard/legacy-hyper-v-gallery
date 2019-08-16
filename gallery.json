@@ -49,57 +49,7 @@
             "value": "https://www.q4os.org/"
           }
         ]
-
-    "images": [
-      {
-        "name": "Q4OS",
-        "version": "7.6",
-        "locale": "en-US",
-        "publisher": "Repackaged by sirredbeard on GitHub",
-        "lastUpdated": "2019-08-15T20:35:11Z",
-        "description": [
-        "Live image of Scientific Linux 7.6.",
-        "\r\n\r\n",
-        "Hosted at https://github.com/sirredbeard/hyper-v-gallery",
-        "\r\n\r\n"
-        ],
-        "config": {
-        "secureBoot": "false"
-        },
-        "requirements": {
-        "diskSpace": "28290580480"
-        },
-        "disk": {
-        "uri": "http://www.gtlib.gatech.edu/pub/scientific/livecd/7/x86_64/SL-76-x86_64-2018-12-09-LiveDVDgnome.iso",
-        "hash": "sha256:a63c66570206e4cf48af9502768aff978a6497793187d20a9b61c2efdfa6854d",
-        "archiveRelativePath": "SL-76-x86_64-2018-12-09-LiveDVDgnome.iso"
-        },
-        "logo": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
-        "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
-        },
-        "symbol": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
-        "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
-        },
-        "thumbnail": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/thumbnail.jpg",
-        "hash": "sha256:8DB4D2E3BBFB87C4D09B412B15E5C0D6107A8B8AD914644D282FE653683789A8"
-        },
-        "details": [
-        {
-            "name": "Edition",
-            "value": "7.6"
-        },
-        {
-            "name": "Copyright",
-            "value": "Copyright (c) Scientific Linux"
-        },
-        {
-            "name": "License",
-            "value": "https://www.scientificlinux.org/"
-        }
-        ]
-        }
-      ]
-  }
+      }
+    ]
+}
+  
