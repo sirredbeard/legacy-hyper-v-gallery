@@ -135,28 +135,28 @@
           },
           "logo": {
           "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/logo.png",
-          "hash": "sha256:"
+          "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
           },
           "symbol": {
           "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/logo.png",
-          "hash": "sha256:"
+          "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
           },
           "thumbnail": {
           "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/thumbnail.jpg",
-          "hash": "sha256:"
+          "hash": "sha256:2C0C7D9DCA0D347B152EB1485DAA3366515D77ABC1880CDC513BC7B820E648AC"
           },
           "details": [
           {
               "name": "Edition",
-              "value": "7.6"
+              "value": "8.0"
           },
           {
               "name": "Copyright",
-              "value": "Copyright (c) Scientific Linux"
+              "value": "Copyright (c) Oracle"
           },
           {
               "name": "License",
-              "value": "https://www.scientificlinux.org/"
+              "value": "https://www.oracle.com/linux/"
             }
         ]
       }
