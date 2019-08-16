@@ -42,7 +42,7 @@ This adds the custom json from this repo alongside the existing Microsoft json i
 
 ## notes
 
-See my blog post on this here.
+See my blog post on this [here](https://boxofcables.dev/hyper-v-gallery/).
 
 This project was inspired by the following:
 
