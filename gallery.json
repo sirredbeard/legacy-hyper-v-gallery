@@ -1,165 +1,161 @@
 {
-    "images": [
+
+  "$schema": "https://raw.githubusercontent.com/MicrosoftDocs/Virtualization-Documentation/live/hyperv-tools/vmgallery/vm-gallery-schema.json",
+
+  "images": [
+    {
+      "name": "Q4OS",
+      "version": "Q4OS Centaurus (Trinity)",
+      "locale": "en-US",
+      "publisher": "sirredbeard on GitHub",
+      "lastUpdated": "2019-08-15T18:25:59Z",
+      "description": [
+        "Live image of Q4OS Centaurus (Trinity Desktop Edition)",
+        "\r\n\r\n",
+        "https://github.com/sirredbeard/hyper-v-gallery",
+        "\r\n\r\n"
+      ],
+      "config": {
+        "secureBoot": "false"
+      },
+      "requirements": {
+        "diskSpace": "28290580480"
+      },
+      "disk": {
+        "uri": "https://newcontinuum.dl.sourceforge.net/project/q4os/stable/q4os-3.8-x64-tde.r4.iso",
+        "hash": "sha256:0DB58836C7F67218A3CE717282DEC1D7B0C28877ACC3AC12242E0813D12BE740",
+        "archiveRelativePath": "q4os-3.8-x64-tde.r4.iso"
+      },
+      "logo": {
+        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
+        "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
+      },
+      "symbol": {
+        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
+        "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
+      },
+      "thumbnail": {
+        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/thumbnail.jpg",
+        "hash": "sha256:5CDCDB180C28690467C45BCE08494CC3C50B4D33E03256A6721D945FD06B2641"
+      },
+      "details": [
+        {
+          "name": "Edition",
+          "value": "Q4OS Centaurus (Trinity)"
+        },
+        {
+          "name": "Copyright",
+          "value": "Copyright (c) Q4OS"
+        },
+        {
+          "name": "License",
+          "value": "https://www.q4os.org/"
+        },
+      ]
+    }
+,
+     {
+      "name": "Scientific Linux 7.6",
+      "version": "7.6",
+      "locale": "en-US",
+      "publisher": "sirredbeard on GitHub",
+      "lastUpdated": "2019-08-15T20:35:11Z",
+      "description": [
+      "Live image of Scientific Linux 7.6.",
+      "\r\n\r\n",
+      "https://github.com/sirredbeard/hyper-v-gallery",
+      "\r\n\r\n"
+      ],
+      "config": {
+      "secureBoot": "false"
+      },
+      "requirements": {
+      "diskSpace": "28290580480"
+      },
+      "disk": {
+      "uri": "http://www.gtlib.gatech.edu/pub/scientific/livecd/7/x86_64/SL-76-x86_64-2018-12-09-LiveDVDgnome.iso",
+      "hash": "sha256:a63c66570206e4cf48af9502768aff978a6497793187d20a9b61c2efdfa6854d",
+      "archiveRelativePath": "SL-76-x86_64-2018-12-09-LiveDVDgnome.iso"
+      },
+      "logo": {
+      "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
+      "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
+      },
+      "symbol": {
+      "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
+      "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
+      },
+      "thumbnail": {
+      "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/thumbnail.jpg",
+      "hash": "sha256:8DB4D2E3BBFB87C4D09B412B15E5C0D6107A8B8AD914644D282FE653683789A8"
+      },
+      "details": [
       {
-        "name": "Q4OS",
-        "version": "Q4OS Centaurus (Trinity)",
+          "name": "Edition",
+          "value": "7.6"
+      },
+      {
+          "name": "Copyright",
+          "value": "Copyright (c) Scientific Linux"
+      },
+      {
+          "name": "License",
+          "value": "https://www.scientificlinux.org/"
+        },
+      ]
+    }
+,
+     {
+        "name": "Oracle Linux",
+        "version": "8",
         "locale": "en-US",
         "publisher": "sirredbeard on GitHub",
-        "lastUpdated": "2019-08-15T18:25:59Z",
+        "lastUpdated": "2019-08-15T20:35:11Z",
         "description": [
-          "Live image of Q4OS Centaurus (Trinity Desktop Edition)",
-          "\r\n\r\n",
-          "https://github.com/sirredbeard/hyper-v-gallery",
-          "\r\n\r\n"
+        "Live image of Scientific Linux 7.6.",
+        "\r\n\r\n",
+        "https://github.com/sirredbeard/hyper-v-gallery",
+        "\r\n\r\n"
         ],
         "config": {
-          "secureBoot": "false"
+        "secureBoot": "false"
         },
         "requirements": {
-          "diskSpace": "28290580480"
+        "diskSpace": "28290580480"
         },
         "disk": {
-          "uri": "https://newcontinuum.dl.sourceforge.net/project/q4os/stable/q4os-3.8-x64-tde.r4.iso",
-          "hash": "sha256:0DB58836C7F67218A3CE717282DEC1D7B0C28877ACC3AC12242E0813D12BE740",
-          "archiveRelativePath": "q4os-3.8-x64-tde.r4.iso"
+        "uri": "http://mirrors.kernel.org/oracle/OL8/u0/x86_64/OracleLinux-R8-U0-x86_64-dvd.iso",
+        "hash": "sha256:",
+        "archiveRelativePath": "OracleLinux-R8-U0-x86_64-dvd.iso"
         },
         "logo": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
-          "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
+        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/logo.png",
+        "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
         },
         "symbol": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
-          "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
+        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/logo.png",
+        "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
         },
         "thumbnail": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/thumbnail.jpg",
-          "hash": "sha256:5CDCDB180C28690467C45BCE08494CC3C50B4D33E03256A6721D945FD06B2641"
+        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/thumbnail.jpg",
+        "hash": "sha256:2C0C7D9DCA0D347B152EB1485DAA3366515D77ABC1880CDC513BC7B820E648AC"
         },
         "details": [
-          {
+        {
             "name": "Edition",
-            "value": "Q4OS Centaurus (Trinity)"
-          },
-          {
+            "value": "8.0"
+        },
+        {
             "name": "Copyright",
-            "value": "Copyright (c) Q4OS"
-          },
-          {
+            "value": "Copyright (c) Oracle"
+        },
+        {
             "name": "License",
-            "value": "https://www.q4os.org/"
-          }
+            "value": "https://www.oracle.com/linux/"
+          },
         ]
       }
-    ]    
-}
-
-{
-    "images": [
-        {
-          "name": "Scientific Linux 7.6",
-          "version": "7.6",
-          "locale": "en-US",
-          "publisher": "sirredbeard on GitHub",
-          "lastUpdated": "2019-08-15T20:35:11Z",
-          "description": [
-          "Live image of Scientific Linux 7.6.",
-          "\r\n\r\n",
-          "https://github.com/sirredbeard/hyper-v-gallery",
-          "\r\n\r\n"
-          ],
-          "config": {
-          "secureBoot": "false"
-          },
-          "requirements": {
-          "diskSpace": "28290580480"
-          },
-          "disk": {
-          "uri": "http://www.gtlib.gatech.edu/pub/scientific/livecd/7/x86_64/SL-76-x86_64-2018-12-09-LiveDVDgnome.iso",
-          "hash": "sha256:a63c66570206e4cf48af9502768aff978a6497793187d20a9b61c2efdfa6854d",
-          "archiveRelativePath": "SL-76-x86_64-2018-12-09-LiveDVDgnome.iso"
-          },
-          "logo": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
-          "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
-          },
-          "symbol": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
-          "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
-          },
-          "thumbnail": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/thumbnail.jpg",
-          "hash": "sha256:8DB4D2E3BBFB87C4D09B412B15E5C0D6107A8B8AD914644D282FE653683789A8"
-          },
-          "details": [
-          {
-              "name": "Edition",
-              "value": "7.6"
-          },
-          {
-              "name": "Copyright",
-              "value": "Copyright (c) Scientific Linux"
-          },
-          {
-              "name": "License",
-              "value": "https://www.scientificlinux.org/"
-            }
-        ]
-      }
-    ]    
-}
-
-{
-    "images": [
-        {
-          "name": "Oracle Linux",
-          "version": "8",
-          "locale": "en-US",
-          "publisher": "sirredbeard on GitHub",
-          "lastUpdated": "2019-08-15T20:35:11Z",
-          "description": [
-          "Live image of Scientific Linux 7.6.",
-          "\r\n\r\n",
-          "https://github.com/sirredbeard/hyper-v-gallery",
-          "\r\n\r\n"
-          ],
-          "config": {
-          "secureBoot": "false"
-          },
-          "requirements": {
-          "diskSpace": "28290580480"
-          },
-          "disk": {
-          "uri": "http://mirrors.kernel.org/oracle/OL8/u0/x86_64/OracleLinux-R8-U0-x86_64-dvd.iso",
-          "hash": "sha256:",
-          "archiveRelativePath": "OracleLinux-R8-U0-x86_64-dvd.iso"
-          },
-          "logo": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/logo.png",
-          "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
-          },
-          "symbol": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/logo.png",
-          "hash": "sha256:3DD994C9E2BB3B6CDF3EDD0F0E939587460D3761DECD7293B8480E92452CE1E9"
-          },
-          "thumbnail": {
-          "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/oracle/thumbnail.jpg",
-          "hash": "sha256:2C0C7D9DCA0D347B152EB1485DAA3366515D77ABC1880CDC513BC7B820E648AC"
-          },
-          "details": [
-          {
-              "name": "Edition",
-              "value": "8.0"
-          },
-          {
-              "name": "Copyright",
-              "value": "Copyright (c) Oracle"
-          },
-          {
-              "name": "License",
-              "value": "https://www.oracle.com/linux/"
-            }
-        ]
-      }
-    ]    
-}
+  ,
+  ]
+  }
   
