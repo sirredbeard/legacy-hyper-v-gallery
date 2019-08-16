@@ -277,7 +277,7 @@
   "diskSpace": "28290580480"
   },
   "disk": {
-  "uri": "https://download.fedoraproject.org/pub/fedora/linux/releases/30/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-30-1.2.iso",
+  "uri": "http://mirror.math.princeton.edu/pub/fedora/linux/releases/30/Silverblue/x86_64/iso/Fedora-Silverblue-ostree-x86_64-30-1.2.iso",
   "hash": "sha256:d00e9a77623faa5504537d63e4d4a1767dcd3e162fdfdced7ebc6cb1aac14936",
   "archiveRelativePath": "Fedora-Silverblue-ostree-x86_64-30-1.2.iso"
   },
@@ -356,6 +356,57 @@
   {
       "name": "License",
       "value": "https://devuan.org/os/free-software"
+    },
+  ]
+}
+,
+{
+  "name": "Pop_OS! 19.04",
+  "version": "19.04",
+  "locale": "en-US",
+  "publisher": "sirredbeard on GitHub",
+  "lastUpdated": "2019-08-15T20:35:11Z",
+  "description": [
+  "Desktop live image of Pop_OS! 19.04",
+  "\r\n\r\n",
+  "https://github.com/sirredbeard/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://pop-iso.sfo2.cdn.digitaloceanspaces.com/19.04/amd64/intel/10/pop-os_19.04_amd64_intel_10.iso",
+  "hash": "sha256:7e228c2928a046b86b5da07f3aa628052dfe9b12fcbde24a3c50f84f06b84cec",
+  "archiveRelativePath": "pop-os_19.04_amd64_intel_10.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/popos/logo.png",
+  "hash": "sha256:C88FCE5334E6170C1D4085C79D9B0E4065167679A0073EED75799C71FE7C3D05"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/popos/logo.png",
+  "hash": "sha256:C88FCE5334E6170C1D4085C79D9B0E4065167679A0073EED75799C71FE7C3D05"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/popos/thumbnail.png",
+  "hash": "sha256:D297B3D378C21E2A7D8DF3BBFCDFFBCBFB4857EBDE64577BCEC5904AF18D7CEC"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "19.04"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) System76"
+  },
+  {
+      "name": "License",
+      "value": "https://system76.com/pop"
     },
   ]
 }
