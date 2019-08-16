@@ -231,15 +231,15 @@
   "archiveRelativePath": "Solus-4.0-Budgie.iso"
   },
   "logo": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/budgie/logo.png",
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/solus/logo.png",
   "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
   },
   "symbol": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/budgie/logo.png",
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/solus/logo.png",
   "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
   },
   "thumbnail": {
-  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/budgie/thumbnail.jpg",
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/solus/thumbnail.jpg",
   "hash": "sha256:2978CF322F225517156CD5F2FF0B28D3E2730139838CD6C7364FAD460E13E25C"
   },
   "details": [
