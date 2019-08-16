@@ -3,6 +3,14 @@
 ## distros
 
 q4os
+oracle linux 8
+solus budgie
+arch
+ghostbsd
+devuan ascii
+fedora silverblue
+pop_os!
+scientific linux
 
 ## installing gallery
 
