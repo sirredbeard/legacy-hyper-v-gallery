@@ -75,16 +75,16 @@
         "archiveRelativePath": "SL-76-x86_64-2018-12-09-LiveDVDgnome.iso"
         },
         "logo": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
-        "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
+        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
+        "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
         },
         "symbol": {
-        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/logo.jpg",
-        "hash": "sha256:22D01B82AE1B1178906825DF1368F88FCCB608D65AA4375C2C2E1461272648B3"
+        "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/sl/logo.png",
+        "hash": "sha256:57ED888E3B55608AFE75F7579AE17EF76E6096053428419F56A2FF4C7F19D9E9"
         },
         "thumbnail": {
         "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/q4os/thumbnail.jpg",
-        "hash": "sha256:5CDCDB180C28690467C45BCE08494CC3C50B4D33E03256A6721D945FD06B2641"
+        "hash": "sha256:8DB4D2E3BBFB87C4D09B412B15E5C0D6107A8B8AD914644D282FE653683789A8"
         },
         "details": [
         {
