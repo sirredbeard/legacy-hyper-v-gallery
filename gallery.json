@@ -207,6 +207,57 @@
   ]
 }
 ,
+{
+  "name": "Solus Budgie",
+  "version": "4.0",
+  "locale": "en-US",
+  "publisher": "sirredbeard on GitHub",
+  "lastUpdated": "2019-08-15T20:35:11Z",
+  "description": [
+  "Live ISO of Solus Budgie",
+  "\r\n\r\n",
+  "https://github.com/sirredbeard/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "http://us.justin.id.au/iso/images/4.0/Solus-4.0-Budgie.iso",
+  "hash": "sha256:e67c3b7644c97937a0b681883e519a78ea4f62b304d236b28f06536ba1dcdbd6",
+  "archiveRelativePath": "Solus-4.0-Budgie.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/budgie/logo.png",
+  "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/budgie/logo.png",
+  "hash": "sha256:F36DCB63A16B3EDA4E5350828C2FC2AEE91F4769325EAF65EB67253984F51083"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/budgie/thumbnail.jpg",
+  "hash": "sha256:2978CF322F225517156CD5F2FF0B28D3E2730139838CD6C7364FAD460E13E25C"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "4.0"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Solus"
+  },
+  {
+      "name": "License",
+      "value": "https://getsol.us/"
+    },
+  ]
+}
+,
 ]
 }
   
