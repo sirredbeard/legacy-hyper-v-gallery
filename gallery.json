@@ -462,6 +462,59 @@
   ]
 }
 ,
+{
+  "name": "Crunchbangplusplus",
+  "version": "Debian 10",
+  "locale": "en-US",
+  "publisher": "sirredbeard on GitHub",
+  "lastUpdated": "2019-08-17T23:54:33Z",
+  "description": [
+  "Live ISO of Crunchbangplusplus",
+  "\r\n\r\n",
+  "Username: root Password: root"
+  "\r\n\r\n",
+  "https://github.com/sirredbeard/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://github.com/CBPP/cbpp10-amd64/releases/download/v10.1/cbpp-10.1-amd64-20190713.iso",
+  "hash": "sha256:496091BF7EA50DC87387C3A5C0666D9A9B5DDCDF3103324B5091DB789A765851",
+  "archiveRelativePath": "cbpp-10.1-amd64-20190713.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/crunchbang/logo.png",
+  "hash": "sha256:C6FF7E3EB0D1DD1496C9F952B11E966C499CCBB9D1AF1CFDBA83E48378D48379"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/crunchbang/logo.png",
+  "hash": "sha256:C6FF7E3EB0D1DD1496C9F952B11E966C499CCBB9D1AF1CFDBA83E48378D48379"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/crunchbang/thumbnail.png",
+  "hash": "sha256:3B5C12F183B238ACA3759F53974DC004A779BAABB241F62958F370CB405674D5"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "Debian 10"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Crunchbangplusplus"
+  },
+  {
+      "name": "License",
+      "value": "https://crunchbangplusplus.org/"
+    },
+  ]
+}
+,
 ]
 }
   
