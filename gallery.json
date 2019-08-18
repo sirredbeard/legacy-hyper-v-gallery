@@ -515,6 +515,57 @@
   ]
 }
 ,
+{
+  "name": "Qubes OS",
+  "version": "4.0.1",
+  "locale": "en-US",
+  "publisher": "sirredbeard on GitHub",
+  "lastUpdated": "2019-08-17T23:54:33Z",
+  "description": [
+  "Live ISO of Crunchbangplusplus",
+  "\r\n\r\n",
+  "https://github.com/sirredbeard/hyper-v-gallery",
+  "\r\n\r\n"
+  ],
+  "config": {
+  "secureBoot": "false"
+  },
+  "requirements": {
+  "diskSpace": "28290580480"
+  },
+  "disk": {
+  "uri": "https://mirrors.gigenet.com/qubes/iso/Qubes-R4.0.1-x86_64.iso",
+  "hash": "sha256:2771a8d3039f7e32826a5f712425c7432fec3c4ad6387a2adc7d15ab48c8b16a",
+  "archiveRelativePath": "Qubes-R4.0.1-x86_64.iso"
+  },
+  "logo": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/qubes/logo.png",
+  "hash": "sha256:DE8116E0C35BC4F77050AC91D28394DC560C2C54329482D06FDAC06BF17B7361"
+  },
+  "symbol": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/qubes/logo.png",
+  "hash": "sha256:DE8116E0C35BC4F77050AC91D28394DC560C2C54329482D06FDAC06BF17B7361"
+  },
+  "thumbnail": {
+  "uri": "https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/distros/qubes/thumbnail.png",
+  "hash": "sha256:27DCE777BF6E5EFD19FD3E111E05321EE7D61ED61232915F6B575C96A6B37B00"
+  },
+  "details": [
+  {
+      "name": "Edition",
+      "value": "4.0.1"
+  },
+  {
+      "name": "Copyright",
+      "value": "Copyright (c) Qubes OS"
+  },
+  {
+      "name": "License",
+      "value": "https://www.qubes-os.org/"
+    },
+  ]
+}
+,
 ]
 }
   
