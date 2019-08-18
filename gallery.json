@@ -431,7 +431,7 @@
   },
   "disk": {
   "uri": "http://mirror.rackspace.com/archlinux/iso/2019.08.01/archlinux-2019.08.01-x86_64.iso",
-  "hash": "sha1:4dae830315df4684b4351348f1a0fc49b5c08aa7",
+  "hash": "sha256:E3D9CEA98C03996EE3CE5D2D995AED495EAE77C670721BB62AD25530FA175D1D",
   "archiveRelativePath": "archlinux-2019.08.01-x86_64.iso"
   },
   "logo": {
