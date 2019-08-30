@@ -24,7 +24,7 @@ see my [blog post](https://boxofcables.dev/hyper-v-gallery/)
 $newValue = New-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Virtualization\"  `
     -Name 'GalleryLocations' -PropertyType MultiString -Value (
     'https://raw.githubusercontent.com/sirredbeard/hyper-v-gallery/master/gallery.json',
-    'https://download.microsoft.com/download/8/6/7/8675AE2C-30CD-4E3A-834B-BF00EC32F33D/json/en-us/GalleryHyperV.JSON')
+    'https://go.microsoft.com/fwlink/?linkid=851584')
 $newValue.multistring
 ```
 
